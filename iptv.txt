@@ -603,4 +603,34 @@ NewTV武搏世界,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.
 NewTV中国功夫,http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
-
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Nature4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+IPTV高清院线,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+IPTV古装剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+IPTV家庭剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+国际,#genre#
+日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+ANN_News,http://tv.redrainl.site:9500/live.m3u8?c=29
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
+SKY_News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+France24,http://tv.redrainl.site:9500/live.m3u8?c=13
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC_News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+TROWORLD,http://tv.redrainl.site:9500/live.m3u8?c=35
+NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
+TOP_NEWS,http://tv.redrainl.site:9500/live.m3u8?c=14
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
