@@ -1,11 +1,12 @@
 杨爸杨妈 | 常看整理,#genre#
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
+四川卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
 内江综合频道,http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
 内江公共频道,http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
 新疆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-新疆卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225725/index.m3u8
+新疆卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
