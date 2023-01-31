@@ -1,3 +1,4 @@
+YXJDSS私用2023,#genre#
 杨爸👨杨妈👩|常看整理,#genre#
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
 四川卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
@@ -668,7 +669,7 @@ IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001
 爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131206302227&channel-id=wasusyt&Contentid=6000000006000070630
 爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014141442306403&channel-id=wasusyt&Contentid=6000000006000070630
 
-闲散 |港澳台,#genre#
+闲散 |🗼港澳台,#genre#
 澳门综艺,http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
 大立電視 (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
@@ -768,7 +769,7 @@ TVBS欢乐-02,rtmp://219.80.97.35/sat/tv421
 TVBS新闻-01,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
 
-世界|频道,#genre#
+🗼世界|频道,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
@@ -820,10 +821,88 @@ CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
 f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8?zshijd
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshij
 KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?zshijd
 KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
 KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
 KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+音乐舞蹈,#genre#
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
+SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+SNH48剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+音乐Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+音乐MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+M2音乐,http://live.m2.tv/hls3/stream.m3u8
+M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+意大利V2,http://de1se01.v2beat.live/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
+俄罗斯HOBOK,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+欧美动感DJ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+韩国动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+朴孝敏 –SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+欧美高清动感歌曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+欧美高清动感歌曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+欧美群星-天下一家,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4
+迈克尔杰克逊,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+僵尸跳舞David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+MTV僵尸舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
+Sistar - Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+Rainbow Blaxx,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
+Marionette,http://video.yidianzixun.com/video/get-url?key=video/701b87f7467c0bc1dad16a60a1848446.mp4
+Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+金泫雅,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
