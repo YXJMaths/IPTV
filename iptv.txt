@@ -106,7 +106,7 @@ CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 
-扯蛋 | 四川,#genre#
+扯蛋 |🗼四川,#genre#
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
 四川科教频道,http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
 绵阳综合,http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
@@ -261,7 +261,7 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 武清综合频道,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
-搞怪 | 卫视,#genre#
+搞怪 | 🗼卫视,#genre#
 湖南卫视HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 湖南卫视HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 江苏卫视HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
