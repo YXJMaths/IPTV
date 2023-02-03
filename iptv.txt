@@ -1100,25 +1100,7 @@ NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/
 
 YXJDSS🎁私用2023,#genre#
 源更新与20230122
-J the Kpop,http://193.29.189.71:6868/mmm22.php?id=jthekpop_korea
-NHKBS1,http://193.29.189.71:6868/mmm22.php?id=nhkbs1_japan
-NHKBSプレミアPremium,http://193.29.189.71:6868/mmm22.php?id=nhkpremium_japan
-NHK-E,http://193.29.189.71:6868/mmm22.php?id=nhke_japan
-CGNTV,http://193.29.189.71:6868/mmm22.php?id=cgntv_korea
-YTN,http://193.29.189.71:6868/mmm22.php?id=ytn_korea
-YTNDMB,http://193.29.189.71:6868/mmm22.php?id=ytndmb_korea
-YTNKorean,http://193.29.189.71:6868/mmm22.php?id=ytnkorean_korea
-YTNScience,http://193.29.189.71:6868/mmm22.php?id=ytnscience_korea
-KBSWorld24,http://193.29.189.71:6868/mmm22.php?id=kbsworld24_korea
-テレビ东京TokyoTV,http://193.29.189.71:6868/mmm22.php?id=tokyotv_japan
-AppsTV,http://193.29.189.71:6868/mmm22.php?id=appongoogle_korea
-EBS1,http://193.29.189.71:6868/mmm22.php?id=ebs1_korea
-EBS2,http://193.29.189.71:6868/mmm22.php?id=ebs2_korea
-CBS,http://193.29.189.71:6868/mmm22.php?id=cbs_korea
-テレビ朝日AsahiTV,http://193.29.189.71:6868/mmm22.php?id=asahitv_japan
-阿里郎Arirang,http://193.29.189.71:6868/mmm22.php?id=arirang_twn
 INDIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=default
-中国频道,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=default
 PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default
 亚洲频道,thttps://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5102&q=default
 亚洲,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5501&q=default
